@@ -1,4 +1,4 @@
-# Panaversity Visitors Chatbot
+# Visitors Chatbot
 
 ## Initial Cost Analysis
 
